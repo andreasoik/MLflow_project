@@ -1,1 +1,2 @@
-# MLflow_project
+# Leveraging MLflow and Databricks for Machine Learning Experimentation
+The scope of this project is to leverage Databricks Services for running popular Machine Learning algorithms. The notebook includes training, hyperparameter tuning of algorithms, and logging them along with their corresponding evaluation metrics in Machine Learning experiments using MLflow. The dataset contains basic variables that exhibit strong correlation with health-related claims.
